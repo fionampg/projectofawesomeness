@@ -15,3 +15,4 @@ Basic historical (1979-2016) data by country, year and demographic groups
 kaggle.com
 World Happiness Report
 Happiness scored according to economic production, social support, etc.
+members: Sam, Fiona, Justin, Veronique, Rebeca 
