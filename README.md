@@ -5,7 +5,7 @@ Our project is to uncover the relationship between happiness and different socio
 Question posed: 
 -    What economic indicators influence happiness (HDI?)
 
-Possible sources:
+Sources:
 https://www.kaggle.com/szamil/who-suicide-statistics#who_suicide_statistics.csv
 https://www.kaggle.com/unsdsn/world-happiness#2017.csv
 
