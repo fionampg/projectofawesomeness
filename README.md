@@ -1,5 +1,5 @@
 # projectofawesomeness
-group project
+
 Our project is to uncover the relationship between happiness and different socioeconomic indicators.
 
 Question posed: 
